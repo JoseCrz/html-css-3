@@ -147,3 +147,27 @@ nav ul li a {
     background-image: url("../img/banner-2.jpg");
 }
 
+#contact .section-img {
+    background-image: url("../img/background-2.jpg");
+}
+
+#contact h3 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.text-input {
+    width: 100%;
+    height: 24px;
+}
+
+label {
+    margin-top: 10px;
+    display: block;
+}
+
+.button-container {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
