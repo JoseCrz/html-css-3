@@ -87,6 +87,54 @@ nav ul li a {
     color: white;
 }
 
-.banner {
+/* .banner {
     background: teal;
+} */
+
+.banner {
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h2 {
+    font-size: 48px;
+}
+
+#about .banner {
+    background-image: url("../img/banner-1.jpg");
+}
+
+#about .banner h2 {
+    color: #1D242B;
+}
+
+#about h4 {
+    font-size: 24px;
+}
+
+.about-text-container {
+    box-sizing: border-box;
+    padding: 0 20%;
+}
+
+.about-text {
+    text-align: center;
+    line-height: 28px;
+}
+
+.photos-container {
+    display: flex;
+}
+
+.photo-container {
+    margin: 0;
+    width: 25%;
+}
+
+.photo {
+    width: 100%;
 }
