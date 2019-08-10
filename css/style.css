@@ -138,3 +138,12 @@ nav ul li a {
 .photo {
     width: 100%;
 }
+
+#quote {
+    color: #1D242B;
+}
+
+#quote .banner {
+    background-image: url("../img/banner-2.jpg");
+}
+
