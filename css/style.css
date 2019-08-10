@@ -171,3 +171,14 @@ label {
     display: flex;
     justify-content: center;
 }
+
+footer {
+    margin-top: 24px;
+    border-top: 1px solid #37474f;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none; 
+}
